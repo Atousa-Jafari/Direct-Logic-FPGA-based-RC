@@ -7,7 +7,7 @@ It is the first quantized streamline Reservoir Computing (RC), in particular, Ec
 
 - **Python 3.9+**
 
-- **Core scientific libraries**
+- **libraries**
   - **numpy**
   - **scipy**
   - **pandas**
