@@ -5,7 +5,7 @@ It is the first quantized streamline Reservoir Computing (RC), in particular, Ec
 
 ## **Prerequisites**
 
-- **Python 3.9+**
+- **Python==3.9+**
 - **Vivado Design Suite 2022.2**
 
 - **Libraries**
@@ -16,7 +16,7 @@ It is the first quantized streamline Reservoir Computing (RC), in particular, Ec
   - **scikit-learn**
 
 - **Reservoir Computing Framework**
-  - **ReservoirPy**
+  - **ReservoirPy==0.3.12**
 
 - **Quantization & deep learning** 
   - **torch**
